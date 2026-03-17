@@ -42,7 +42,7 @@ Traditional technical analysis relies on lagging indicators and manual interpret
 | Average R² | 0.9582 |
 | Stocks below 1.25% MAPE | 46 / 58 |
 | Stocks below 1.00% MAPE | 27 / 58 |
-| Training data range | 2003 – 2026 |
+| Training data range | 2015 – 2026 |
 | Prediction horizon | 1 trading day ahead |
 | Ensemble size | 3 Bi-GRU models per stock |
 
